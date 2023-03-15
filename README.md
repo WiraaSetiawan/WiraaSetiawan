@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Wira Setiawan</h1>
 <h3 align="center">Just Someone who want live in peaceful days</h3>
 
-<p align="center"><img scr=""></p>
+<p align="center"><img scr="https://webusstatic.yo-star.com/ark_us_web/assets/162874910971116384/57daeeab9de42fc2a66369c000b42709.jpg?x-oss-process=image/resize,w_500"></p>
 
 - 🔭 I’m currently Studying on [Ganesha University of Education](https://undiksha.ac.id/en/)
 
