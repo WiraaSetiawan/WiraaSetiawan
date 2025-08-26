@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently Studying on [Ganesha University of Education](https://undiksha.ac.id/en/)
 
-- 🌱 I’m currently learning **Java script, React js, php**
+- 🌱 I’m currently learning **C#**
 
-- 💬 Ask me about **css, tailwind**
+- 💬 Ask me about **Unity**
 
 - 📫 How to reach me **wirasetiawan108@gmail.com**
 
